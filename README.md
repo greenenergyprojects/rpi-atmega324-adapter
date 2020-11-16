@@ -1,1 +1,1 @@
-# rpi-atmega324-adapter
+# rpi-atmega324-shield1
